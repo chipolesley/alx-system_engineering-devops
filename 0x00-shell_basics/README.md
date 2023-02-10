@@ -1,0 +1,1 @@
+outputing shell basic commands
